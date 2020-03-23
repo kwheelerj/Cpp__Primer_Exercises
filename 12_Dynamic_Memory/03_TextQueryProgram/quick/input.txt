@@ -1,0 +1,4 @@
+the cat is big
+pretty cat
+this is a dog
+dog is not cat
